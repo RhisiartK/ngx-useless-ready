@@ -1,0 +1,22 @@
+{
+  "name": "ngx-useless",
+  "version": "0.0.1",
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RhisiartK/ngx-useless.git"
+  },
+  "author": "Richard Keki <kricsi14@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RhisiartK/ngx-useless/issues"
+  },
+  "homepage": "https://github.com/RhisiartK/ngx-useless#readme",
+  "peerDependencies": {
+    "@angular/common": "^14.2.0",
+    "@angular/core": "^14.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
